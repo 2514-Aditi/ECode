@@ -14,8 +14,7 @@ ECode is a **code execution platform** that compiles and runs programs in
 | Supported Languages | C++, Python, Java |
 | Backend Execution | child_process.spawn + temp sandbox |
 | Security | Timeout kill + isolated directory |
-| UI | Minimal but functional |
-| Theme |  Dark / Light toggle (including Monaco editor) |
+| Theme |  Dark / Light toggle |
 | No external judge APIs | 100% locally executed |
 
 ---
